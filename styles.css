@@ -12,9 +12,9 @@ body, html {
   }
 
   .moving-element {
-    max-width: 880px;
+    max-width: 850px;
     position: absolute;
-    top: -10%;
-    left: 40%;
+    top: -5%;
+    right: -10%;
     transform: translate(-50%, -50%);
   }
